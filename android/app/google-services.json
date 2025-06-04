@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711071162964",
+    "project_id": "museumgo-eef15",
+    "storage_bucket": "museumgo-eef15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711071162964:android:99dbbe2c65259c605c03c1",
+        "android_client_info": {
+          "package_name": "com.museumgo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7LBA0OfXg93xyv0mVPibrZoa9QRO70N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
