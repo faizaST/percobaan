@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
             const Align(
               alignment: Alignment.centerLeft,
               child: Text(
-                'Nama Museum Nasional',
+                'Nama Museum',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
             ),
